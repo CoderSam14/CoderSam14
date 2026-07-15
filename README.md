@@ -160,8 +160,8 @@ This graphic renders once the <code>Platane/snk</code> GitHub Action is added to
 | IBM Java Developer Professional Certificate | IBM |
 | IBM Machine Learning Professional Certificate | IBM |
 | IBM Deep Learning Professional Certificate | IBM |
-| AWS Cloud Architect | AWS Academy / Boston IT |
-| AWS Cloud Foundations | AWS Academy / Boston IT |
+| AWS Cloud Architect | AWS Academy |
+| AWS Cloud Foundations | AWS Academy |
 | Python for AI | Boston IT |
 
 </div>
