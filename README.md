@@ -1,121 +1,193 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:1E3A8A&height=220&section=header&text=Sameer%20Nalbandh&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Backend+Developer;Embedded+AI+%26+Edge+Computing;Computer+Vision+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:0EA5E9&height=220&section=header&text=Sameer%20Nalbandh&fontSize=48&fontColor=E0F2FE&fontAlignY=38&animation=fadeIn&desc=Backend%20%2B%20Embedded%20AI%20Engineer&descSize=18&descAlignY=58&descColor=94A3B8" width="100%"/>
 
-<h3 align="center">
-Backend • Embedded AI • Computer Vision
-</h3>
+<a href="https://github.com/CoderSam14">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Backend+Engineering+%7C+Java+%2F+Spring+Boot;Embedded+AI+%7C+Computer+Vision+%7C+Edge+AI;System+Design+%7C+Linux+%7C+Wireless+Sensing" alt="Typing SVG" />
+</a>
 
----
+</div>
 
-## 👨‍💻 About Me
+<br/>
 
-I'm a Computer Science Engineering student passionate about building software that bridges **intelligent algorithms** with **real-world hardware**.
+<img src="https://raw.githubusercontent.com/CoderSam14/CoderSam14/main/assets/divider.svg" width="100%" height="1" alt=""/>
 
-* ☕ Backend Development with Java & Spring Boot
-* 🤖 Embedded AI & Edge Computing
-* 📷 Computer Vision
-* 📡 Wireless Sensing
-* 🧠 Machine Learning
-* ⚡ Always exploring new technologies
+## `01` &nbsp;About
 
----
+I build systems that sit close to the metal — from backend services that need to hold up under load, to embedded pipelines that need to make sense of the physical world in real time. My work spans **Spring Boot backends**, **computer vision**, and **wireless sensing / edge AI**, with a consistent thread: solving problems where correctness, latency, and resource constraints all matter at once.
 
-## 🛠️ Tech Stack
+Currently sharpening skills toward roles at companies building serious hardware and intelligent systems — **NVIDIA · RTX · Lockheed Martin · Northrop Grumman · Rheinmetall · Leonardo · Qualcomm · AMD · Intel · Apple · Google**.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,linux,bash,mysql,tensorflow,pytorch,opencv,html,css,js,vscode,idea" />
-</p>
+```text
+class Sameer {
+    private String[] focus = {"Backend Engineering", "Embedded AI", "Computer Vision", "System Design"};
+    private boolean shipsCleanCode = true;
+    private String currentlyExploring = "Wi-Fi CSI based sensing & Edge AI";
+}
+```
 
----
+<br/>
 
-## 🚀 Featured Projects
+## `02` &nbsp;Tech Stack
 
-### 🌌 Automated Asteroid Detection
+<div align="center">
 
-Deep learning pipeline for detecting asteroids from FITS astronomical images using computer vision techniques.
+**Languages & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" />
 
-### 📶 Wi-Fi CSI Human Activity Recognition
+**Frameworks & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,tensorflow,pytorch,opencv,mysql&theme=dark" />
 
-Research-oriented embedded AI project for recognizing human activities using Wi-Fi Channel State Information and deep learning.
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,idea&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/CoderSam14/CoderSam14/main/assets/divider.svg" width="100%" height="1" alt=""/>
+
+## `03` &nbsp;Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Automated Asteroid Detection
+Pipeline for identifying asteroid candidates from astronomical image sequences using classical computer vision and image differencing techniques.
+
+`Python` `OpenCV` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Wi-Fi CSI Human Activity Recognition
+Human activity recognition system built on Wi-Fi Channel State Information — turning ambient RF signals into classified motion data, no cameras required.
+
+`Python` `Wireless Sensing` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎥 Human Action Recognition
+Video-based action recognition system using deep learning to classify human activity from frame sequences.
 
-CNN-based action recognition using TensorFlow, OpenCV and the UCF50 dataset.
+`Python` `TensorFlow` `Computer Vision`
 
-### ☕ Gitlet
+</td>
+<td width="50%" valign="top">
 
-A Java implementation of a Git-like version control system inspired by UC Berkeley's CS61B.
+### 🗂️ Gitlet
+A ground-up reimplementation of core Git functionality — commits, branching, merging, and the underlying object model.
 
-### 🌍 Build Your Own World (BYOW)
+`Java` `Data Structures` `Version Control`
 
-Procedural world generation project built in Java.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌍 Build Your Own World
+Procedurally generated 2D world engine with tile-based rendering, deterministic seeding, and interactive exploration.
 
-## 📜 Certifications
+`Java` `Algorithms` `Game Engine`
 
-<p align="center">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Oracle-Java_SE_17-red?style=for-the-badge&logo=oracle&logoColor=white"/>
+### 💳 MakeMyPayment
+A backend payment processing application focused on transaction handling, service-layer design, and API structure.
 
-<img src="https://img.shields.io/badge/Spring-Learning_Path-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+`Java` `Spring Boot` `MySQL`
 
-<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Meta-HTML_%26_CSS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<div align="center">
+<a href="https://github.com/CoderSam14?tab=repositories">
+<img src="https://img.shields.io/badge/View%20all%20repositories-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" />
+</a>
+</div>
 
-<img src="https://img.shields.io/badge/NPTEL-Competitive_Programming-blue?style=for-the-badge"/>
+<br/>
 
-</p>
+<img src="https://raw.githubusercontent.com/CoderSam14/CoderSam14/main/assets/divider.svg" width="100%" height="1" alt=""/>
 
-> **Note:** Remove or replace any badges for certifications you haven't completed yet.
+## `04` &nbsp;GitHub Analytics
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CoderSam14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&ring_color=0EA5E9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSam14&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CoderSam14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSam14&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSam14&hide_border=true&background=0D1117&stroke=0D1117&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=64748B" />
 
-## 🔥 GitHub Streak
+</div>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=CoderSam14&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/CoderSam14/CoderSam14/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+</div>
 
-## 🌐 Connect
+<details>
+<summary><b>Enable the contribution snake animation</b></summary>
+<br/>
 
-<p align="center">
+This graphic renders once the <code>Platane/snk</code> GitHub Action is added to this repository, generating <code>github-contribution-grid-snake-dark.svg</code> on an <code>output</code> branch matching the path above.
+
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/CoderSam14/CoderSam14/main/assets/divider.svg" width="100%" height="1" alt=""/>
+
+## `05` &nbsp;Certifications
+
+<div align="center">
+
+| Certification | Issuer |
+|---|---|
+| Oracle Certified Professional — Java SE 17 Developer | Oracle |
+| IBM Java Developer Professional Certificate | IBM |
+| IBM Machine Learning Professional Certificate | IBM |
+| IBM Deep Learning Professional Certificate | IBM |
+| AWS Cloud Architect | AWS Academy / Boston IT |
+| AWS Cloud Foundations | AWS Academy / Boston IT |
+| Python for AI | Boston IT |
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/CoderSam14/CoderSam14/main/assets/divider.svg" width="100%" height="1" alt=""/>
+
+## `06` &nbsp;Connect
+
+<div align="center">
+
+<a href="mailto:sameernalbandh14@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0F172A" />
+</a>
+<a href="https://www.linkedin.com/in/mohamad-sameer-nalbandh-303383280">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" />
+</a>
 <a href="https://github.com/CoderSam14">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" />
 </a>
 
-   
+</div>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<br/>
 
-   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:0891B2,100:0F172A&height=120&section=footer" width="100%"/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<i>Building reliable software and intelligent embedded systems.</i>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:0EA5E9&height=120&section=footer"/>
+</div>
