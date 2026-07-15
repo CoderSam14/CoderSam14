@@ -138,15 +138,7 @@ A backend payment processing application focused on transaction handling, servic
 <img src="https://raw.githubusercontent.com/CoderSam14/CoderSam14/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </div>
 
-<details>
-<summary><b>Enable the contribution snake animation</b></summary>
-<br/>
 
-This graphic renders once the <code>Platane/snk</code> GitHub Action is added to this repository, generating <code>github-contribution-grid-snake-dark.svg</code> on an <code>output</code> branch matching the path above.
-
-</details>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/CoderSam14/CoderSam14/main/assets/divider.svg" width="100%" height="1" alt=""/>
 
